@@ -1,0 +1,97 @@
+.block1{
+    margin: auto;
+	top: 0%;
+	width: 50%;
+	height: 100%;
+	border-radius: 1px;
+	/*box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);*/
+	background-color: violet;
+}
+
+.block2{
+    position: relative;
+    /*left: 20%;*/
+    margin: auto;
+    height: 600px;
+    width: 70%;
+    border: solid 1px violet;
+}
+
+.block3{
+    top: 5%;
+    position: relative;
+    /*left: 20%;*/
+    margin: auto;
+    height: 20%;
+    width: 90%;
+    border: solid 1px violet;
+}
+
+P.nameOfArticle {
+	margin: 5% 1% 1% 1%;
+	font-size: 20pt;
+	left: 10%;
+    font-family: Arial;
+}
+
+.block4{
+    top: 8%;
+    position: relative;
+    /*left: 20%;*/
+    margin: auto;
+    height: 10%;
+    width: 90%;
+    border: solid 1px violet;
+}
+
+P.styletext1 {
+	margin: 1% 1% 1% 1%;
+	font-size: 10pt;
+	left: 10%;
+    font-family: Arial;
+}
+
+.block5{
+    top: 5%;
+    position: relative;
+    /*left: 20%;*/
+    margin: auto;
+    height: 45%;
+    width: 90%;
+    border: solid 1px violet;
+}
+
+P.styletext2 {
+	margin: 4% 1% 1% 1%;
+	font-size: 10pt;
+	left: 10%;
+    font-family: Arial;
+}
+
+.block6{
+    top: 7%;
+    position: relative;
+    /*left: 20%;*/
+    left: 5%;
+    height: 15%;
+    width: 65%;
+    border: solid 1px violet;
+}
+
+P.styletext3 {
+	margin: 4% 1% 1% 1%;
+	font-size: 7pt;
+	left: 10%;
+    font-family: Arial;
+}
+
+.block7{
+    top: -5%;
+    position: relative;
+    display: inline-flex;
+    left: -5%;
+    float: right;
+    height: 7%;
+    width: 25%;
+    border: solid 1px violet;
+}
